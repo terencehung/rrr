@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T10:52:32.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="7vlZ0ekg4S9H2qSjvNYV" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T10:53:56.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="QLss256RlVVkpkR5GUoG" version="13.10.2" type="github">
   <diagram id="hUPgtRvlfxiUSDfQbxEq" name="Page-1">
     <mxGraphModel dx="1186" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
@@ -118,9 +118,6 @@
               <mxPoint x="240" y="330" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqXF5HZhTGsrodSmE5L-24" value="需顯上檔案名" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="710" y="420" width="180" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tMqXF5HZhTGsrodSmE5L-25" value="整併保證期到期明細表&#xa;" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="180" height="40" as="geometry" />
@@ -343,8 +340,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqXF5HZhTGsrodSmE5L-63" value="頁面重構&#xa;ps.點案件編號連到案件360&#xa;點付款通知連到新URL" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="293" width="180" height="40" as="geometry" />
+        <mxCell id="tMqXF5HZhTGsrodSmE5L-63" value="頁面重構&#xa;ps.&#xa;1.點案件編號連到案件360&#xa;2.點付款通知連到新URL" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tMqXF5HZhTGsrodSmE5L-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" target="tMqXF5HZhTGsrodSmE5L-63">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -384,15 +381,6 @@
               <mxPoint x="590" y="310" />
               <mxPoint x="600" y="310" />
               <mxPoint x="650" y="361" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqXF5HZhTGsrodSmE5L-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tMqXF5HZhTGsrodSmE5L-24">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="680" y="310" as="sourcePoint" />
-            <mxPoint x="700" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="437" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -520,12 +508,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqXF5HZhTGsrodSmE5L-89" value="檔案上傳" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="tMqXF5HZhTGsrodSmE5L-89" value="檔案上傳&#xa;(需顯上檔案名)" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="710" y="358" width="180" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tMqXF5HZhTGsrodSmE5L-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="680" y="350" as="sourcePoint" />
+            <mxPoint x="680" y="310" as="sourcePoint" />
             <mxPoint x="710" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="440" />
